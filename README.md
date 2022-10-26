@@ -1,3 +1,28 @@
+# Shopping App Based on React and Redux (BigShop)
+
+This project use Semantic UI Library for styling the app.
+Data about the product is fetched from the API ( fakestoreapi ) using the axios library and dipslayed .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
